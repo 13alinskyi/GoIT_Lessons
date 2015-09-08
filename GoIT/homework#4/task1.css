@@ -1,0 +1,25 @@
+header {
+    width: 100%;
+    background-color: #A64DFF;
+    margin-left: -10px;
+    padding-right: 16px;
+    margin-top: -8px;
+}
+nav {
+    width: 900px;
+    margin: 0 auto;
+}
+a {
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #FFFDFE;
+    font-size: 14px;
+    padding: 11px 16px;
+    font-family: Economica bold;
+    font-weight: lighter;
+}
+a:hover {
+    color: #A8A4A1;
+    background-color: #EEEEEE;
+}
